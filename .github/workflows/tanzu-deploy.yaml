@@ -21,4 +21,4 @@ jobs:
           container_registry: ghcr.io/${{ github.actor }}/dotnet
           buildPlanSource: custom-build-plan
           project: Energy-Transfer
-          space: delta-space
+          space: gamma-space
